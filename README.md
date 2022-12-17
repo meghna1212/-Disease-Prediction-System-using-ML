@@ -9,7 +9,9 @@
 6. Deploying Web App
 
 # 2. Description
-This is a Multiple Disease Prediction System which has been made using Machine Learning in Python. This web app can predict the diseases such as Diabetes, heart disease, and Parkinson's using Machine Learning.
+This is a Multiple Disease Prediction System which has been made using Machine Learning in Python. 
+
+This web app can predict the diseases such as Diabetes, heart disease, and Parkinson's using Machine Learning.
 This web app has been deployed using Streamlit. 
 The navigation bar can be used in order to choose which disease we want to predict for, by entering data into the various input fields.
 These input fields are the features of the dataset on which the ML model has been trained.
