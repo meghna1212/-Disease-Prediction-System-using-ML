@@ -32,3 +32,6 @@ https://meghna1212-diabetes-prediction-using-ml-mdps-public-7ltcu7.streamlit.app
 # 5. Screenshot of the Interface
 ![image](https://user-images.githubusercontent.com/63409349/208239551-f8aba57c-dc13-4ab5-81bd-38d78a025e15.png)
 
+![image](https://user-images.githubusercontent.com/63409349/208240457-c370dc2f-2749-4b0f-93f0-9652e0e70e3a.png)
+
+
