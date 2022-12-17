@@ -19,7 +19,7 @@ Through this dashboard, I have tried to provide information about Zomato at-a-gl
 ![image](https://user-images.githubusercontent.com/63409349/208239053-fdc9b31b-f92c-49dc-84f4-26e0a8d95d6b.png)
 
 # 4. Live Link
-Dashboard was deployed on local system. Screenshots have been added below
+https://meghna1212-diabetes-prediction-using-ml-mdps-public-7ltcu7.streamlit.app/
 
 # 5. Screenshot of the Interface
 ![image](https://user-images.githubusercontent.com/63409349/208239551-f8aba57c-dc13-4ab5-81bd-38d78a025e15.png)
