@@ -1,4 +1,4 @@
-# Diabetes-Prediction-using-ML
+# Multiple Disease Prediction using ML
 
 # 1. Methodology
 1. Data Collection
